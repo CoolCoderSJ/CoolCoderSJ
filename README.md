@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 <!--
 **CoolCoderSJ/CoolCoderSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on building my first full blown website with databases, accounts, all the juicy stuff.
+- Contact - ~~id rather not give out my email~~ 
+* Discord - SnowCoder#~~something~~ 
+* Repl.it - CoolCoderSJ 
+* Github - || You should know this by now ||
