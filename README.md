@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my first full blown website with databases, accounts, all the juicy stuff.
 - Contact - ~~id rather not give out my email~~ 
-* Discord - SnowCoder#~~something~~ 
-* Repl.it - CoolCoderSJ 
-* Github - || You should know this by now ||
+* Discord - [SnowCoder#~~something~~ ](https://canary.discord.com)
+* Repl.it - [CoolCoderSJ](https://repl.it/@CoolCoderSJ) 
+* Github - [|| You should know this by now ||](https://github.com/CoolCoderSJ)
+
+If you've *really* taken the extra step to come here, why not also go [here](https://www.sjportfolio.cf)?
+And [here](https://repl.it/CoolCoderSJ/blog?outputonly=1)?
