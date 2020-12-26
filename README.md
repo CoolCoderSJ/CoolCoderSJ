@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on building my first full blown website with databases, accounts, all the juicy stuff.
+- 🔭 I can code proficiently in Python, and I know really basic JS.
 - Contact - ~~id rather not give out my email~~ 
 * Discord - [SnowCoder#~~something~~ ](https://canary.discord.com)
 * Repl.it - [CoolCoderSJ](https://repl.it/@CoolCoderSJ) 
