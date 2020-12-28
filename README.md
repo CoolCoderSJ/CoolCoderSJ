@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 - 🔭 I can code proficiently in Python, and I know really basic JS.
 - Contact - ~~id rather not give out my email~~ 
-* Discord - [SnowCoder#~~something~~ ](https://canary.discord.com)
+* Discord - [~~something~~ ](https://canary.discord.com)
 * Repl.it - [CoolCoderSJ](https://repl.it/@CoolCoderSJ) 
-* Github - [|| You should know this by now ||](https://github.com/CoolCoderSJ)
+* Github - [You should know this by now](https://github.com/CoolCoderSJ)
 
 If you've *really* taken the extra step to come here, why not also go [here](https://www.sjportfolio.cf)?
-And [here](https://repl.it/@CoolCoderSJ)?
+
