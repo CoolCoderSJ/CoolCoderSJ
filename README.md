@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 * Repl.it - [CoolCoderSJ](https://repl.it/@CoolCoderSJ) 
 * Github - [You should know this by now](https://github.com/CoolCoderSJ)
 
-If you've *really* taken the extra step to come here, why not also go [here](https://www.sjportfolio.cf)?
-
 (The following metrics do NOT include Private Repos)
 
 ![Metrics](https://metrics.lecoq.io/CoolCoderSJ?template=classic&followup=1&languages=1&isocalendar=1&pagespeed=1&posts=1&projects=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=true&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&projects.limit=4&stars.limit=4&config.timezone=America%2FNew_York)
