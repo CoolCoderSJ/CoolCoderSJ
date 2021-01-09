@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 * Github - [You should know this by now](https://github.com/CoolCoderSJ)
 
 If you've *really* taken the extra step to come here, why not also go [here](https://www.sjportfolio.cf)?
+
 ![Metrics](https://github.com/CoolCoderSJ/CoolCoderSJ/blob/master/github-metrics.svg)
