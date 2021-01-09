@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 If you've *really* taken the extra step to come here, why not also go [here](https://www.sjportfolio.cf)?
 
+![Metrics](https://metrics.lecoq.io/CoolCoderSJ?template=classic&isocalendar=1&languages=1&projects=1&stars=1&isocalendar.duration=half-year&projects.limit=4&projects.repositories=Collaboread&stars.limit=4&config.timezone=America%2FNew_York)
