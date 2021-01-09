@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 (The following metrics do NOT include Private Repos)
 
+![Metrics](https://github.com/CoolCoderSJ/CoolCoderSJ/blob/main/github-metrics.svg)
 ![Metrics](https://metrics.lecoq.io/CoolCoderSJ?template=classic&followup=1&languages=1&isocalendar=1&pagespeed=1&posts=1&projects=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=true&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&projects.limit=4&stars.limit=4&config.timezone=America%2FNew_York)
