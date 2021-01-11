@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[https://img.shields.io/badge/-My%20Portfolio%20-blue](https://sjurl.repl.co/portfolio)
 
 - 🔭 I can code proficiently in Python, and I know really basic JS.
 - Contact - ~~id rather not give out my email~~ 
