@@ -1,6 +1,6 @@
 ### Hi there!
 
-[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio%20-blue)](https://sjurl.repl.co/portfolio)
+[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio%20-blue)](https://sjurl.repl.co/l/portfolio)
 
 <!--
 **CoolCoderSJ/CoolCoderSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
