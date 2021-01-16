@@ -1,6 +1,6 @@
 ### Hi there!
 
-[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio%20-blue)](https://sjurl.repl.co/l/portfolio)
+[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio%20-blue)](https://sjurl.repl.co/portfolio)
 ![](https://komarev.com/ghpvc/?username=CoolCoderSJ)
 
 <!--
