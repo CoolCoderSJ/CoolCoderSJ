@@ -928,21 +928,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="254.89476650080928" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="254.859626093159" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="254.89476650080928" y="0" width="68.44268329236856" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="254.859626093159" y="0" width="68.43324761887636" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="323.3374497931779" y="0" width="40.36340746957617" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="323.2928737120354" y="0" width="40.35784287281293" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="363.700857262754" y="0" width="36.03007013967988" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="363.6507165848483" y="0" width="36.08851965738194" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="399.7309274024339" y="0" width="28.355038666746598" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="399.7392362422302" y="0" width="28.35112957268646" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="428.0859660691805" y="0" width="16.164114861219353" height="8" fill="#DA5B0B"/>
+          <rect mask="url(#languages-bar)" x="428.09036581491665" y="0" width="16.16188643733554" height="8" fill="#DA5B0B"/>
         
-          <rect mask="url(#languages-bar)" x="444.25008093039986" y="0" width="11.601342845153168" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="444.2522522522522" y="0" width="11.59974345603088" height="8" fill="#c6538c"/>
         
-          <rect mask="url(#languages-bar)" x="455.85142377555303" y="0" width="4.148576224446976" height="8" fill="#701516"/>
+          <rect mask="url(#languages-bar)" x="455.8519957082831" y="0" width="4.148004291716866" height="8" fill="#701516"/>
         
       </svg>
       
@@ -2097,7 +2097,7 @@
                   
                   <div class="name">
                     <span>Spidy20/Python_To_APK</span>
-                    <span>starred 27 days ago</span>
+                    <span>starred 28 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2248,7 +2248,7 @@
           
             <span>These metrics include private contributions, timezone America/New_York</span>
           
-          <span>Last updated Mon, 15 Feb 2021 04:04:32 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Mon, 15 Feb 2021 05:03:55 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
