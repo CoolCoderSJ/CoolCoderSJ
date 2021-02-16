@@ -26,6 +26,4 @@ Here are some ideas to get you started:
 
 (The following metrics include Private Repos)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCoderSJ&hide=javascript)
-
 ![Metrics](https://github.com/CoolCoderSJ/CoolCoderSJ/blob/main/github-metrics.svg)
