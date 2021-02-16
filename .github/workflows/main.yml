@@ -24,7 +24,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_ignored: TypeScript, CSS, Ruby, SCSS:  
+          plugin_languages_ignored: TypeScript, CSS, Ruby, SCSS
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
