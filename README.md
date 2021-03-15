@@ -1,7 +1,11 @@
 ### Hi there!
 
-[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio%20-blue)](https://sjurl.repl.co/portfolio)
-![](https://komarev.com/ghpvc/?username=CoolCoderSJ)
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/CoolCoderSJ/count.svg" />
+</p>
 
 <!--
 **CoolCoderSJ/CoolCoderSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
